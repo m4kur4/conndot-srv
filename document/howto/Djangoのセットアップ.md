@@ -17,3 +17,5 @@ Python 3.8.5
 `$ python -m pip install Django`
 ### Djangoプロジェクトの作成
 `$ django-admin startproject conndot`
+### 動作確認
+`$ python manage.py runserver`
